@@ -28,6 +28,18 @@
     font-size: 12px;
     font-weight: 500px;
   }
+  .video-time{
+    position: absolute;
+    background-color: black;
+    color: white;
+    bottom: 8px;
+    right: 5px;
+    padding: 4px;
+    border-radius: 2px;
+    font-family: roboto, arial;
+    font-size: 12px;
+    font-weight: 500px;
+  }
   .video-author,
   .video-stats {
     font-size: 12px;
